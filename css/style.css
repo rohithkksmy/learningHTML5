@@ -1,0 +1,40 @@
+body{
+	background-color: #9E4213;
+	font-family:verdana;
+	font-size: 12px;
+	margin:0px;
+	padding:0px;
+
+}
+img {
+    width: 100%;
+    height: auto;
+}
+#container{
+	background-color: #fff;
+	width:1000px;
+	margin:0px auto;
+	min-height:500px;
+	height:auto;
+	overflow: auto;
+}
+
+header{
+	background-color:#CF5F2F;
+	height:200px;
+}
+#logoSection{
+	background: url("../Images/logo.png");
+	width:150px;
+	height:130px;
+	background-size: 150px 130px;
+    background-repeat: no-repeat;
+    float: left;
+
+}
+#searchSection{
+
+}
+#navSection{
+
+}
